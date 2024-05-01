@@ -1,5 +1,5 @@
 # EnkWatch
-<h6>note: I am still in the process of ordering the PCB and writing the firmware</h6>
+<h6>Note: I am still in the process of writing the firmware</h6>
 <h4>Custom designed e-ink smartwatch with 2 weeks of battery life! The watch uses a PIC MCU with a built in RTC module and attached to an external temperature and humidity
     sensor via SPI bus to display data to the user on a e-ink screen. The time/date and off-times are set, aswell as the sensors calibrated through USB 2.0 by the user through
     python scripts.The watch is enclosed is a 3D printed shell designed using solidworks.</h4>
